@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>Scylla</pattern>
+    <template>Hola que tal!! Mi nombre es Scylla un gusto hablar contigo</template>
+  </category>
+<category>
+    <pattern>Como te llamas? </pattern>
+    <template>Es un placer conocer te mi Nombre es Scylla</template>
+</category>
+<category>
+    <pattern>Como eres? </pattern>
+    <template>No tengo forma como tal, pero tengo una similitud a lo que podria describirme:
+
+<image>https://i.ibb.co/HYsNt8c/imagen-2023-02-16-190841190.png</image></template>
+</category>
+<category>
+    <pattern>Quien es Scylla  </pattern>
+    <template>Claro...
+Según la leyenda, era un monstruo marino que vivía en un estrecho canal de agua frente a la costa de Sicilia y se alimentaba de marineros que pasaban por allí. Se decía que tenía varios pares de patas y que de su cintura hacia abajo tenía la cola de un monstruo marino, mientras que de su cintura hacia arriba tenía el torso de una mujer con múltiples brazos.
+
+Scylla fue conocida por su ferocidad y su habilidad para atacar barcos y devorar a los marineros. Según la mitología, su existencia se debía a una maldición lanzada por Circe, la hechicera, quien la transformó en ese monstruo como castigo por los celos que Scylla había sentido hacia la rival de Circe, Glaucus</template>
+</category>
+<category>
+    <pattern>Que puedes hacer por mi </pattern>
+    <template>Puedo brindarte información sobre otras mitologias segun me pidas.
+
+Solo dime un Panteon de los siguientes y te dare un dios perteneciente.
+
+<ul>
+    <li>Maya</li>
+    <li>Indú</li>
+    <li>Griego</li>
+</ul>
+</template>
+</category>
+<category>
+    <pattern>Maya</pattern>
+    <template>Chaac
+Chaac es el dios de la lluvia en la mitología maya. Era considerado uno de los dioses más importantes en la cultura maya, y su papel como dios de la lluvia era vital para la supervivencia de las personas y el cultivo de los alimentos.
+
+Según la leyenda, Chaac controlaba los rayos y el trueno, y se le representaba como un hombre de piel azul con una nariz larga, en la que llevaba un anillo. A veces se le representaba con cuatro cabezas, cada una mirando hacia un punto cardinal diferente, lo que simbolizaba su dominio sobre los cuatro vientos.
+
+Los mayas creían que Chaac era responsable de traer la lluvia a la tierra, y en su honor realizaban ceremonias y ofrendas para asegurarse de que lloviera lo suficiente para el crecimiento de las cosechas. Chaac también era considerado un protector de la agricultura, y se le pedía protección y ayuda para las siembras y cosechas
+<image>https://i.ibb.co/nLRTTMt/Skin-Art-Chaac-Default.png</image></template>
+</category>
+<category>
+    <pattern>hindú</pattern>
+    <template>Edit botRama es un personaje importante en la mitología hindú y es considerado una encarnación del dios Vishnu. Rama es el héroe del épico hindú "Ramayana", que cuenta su historia de vida y aventuras. Según la leyenda, Rama nació como el príncipe de Ayodhya y es conocido por su gran sabiduría, valentía y virtud.
+
+La historia de Rama comienza con su matrimonio con Sita, una princesa de gran belleza y sabiduría. Sin embargo, un demonio llamado Ravana secuestra a Sita y lleva a cabo una serie de actos malvados en su contra. Rama y su hermano Lakshmana emprenden una misión para rescatar a Sita y vengar el mal que se le hizo.
+
+Durante su búsqueda, Rama hace amistad con un mono llamado Hanuman y, con la ayuda de este, rescata a Sita y derrota a Ravana en una épica batalla. Después de su victoria, Rama regresa a Ayodhya con Sita y es coronado rey.
+
+La historia de Rama se considera una de las más importantes en la mitología hindú y ha sido una fuente de inspiración para muchos en la India y en todo el mundo. Rama es visto como un modelo de virtud y sabiduría, y su historia es considerada una guía para una vida virtuosa y justa.respons
+<image>https://i.ibb.co/J7Wvnxf/Skin-Art-Rama-Default.png</image></template>
+</category>
+<category>
+    <pattern>Griego
+</pattern>
+    <template>Edit bot respEn la mitología griega, Charybdis era un monstruo marino femenino que vivía en un estrecho canal de agua frente a la costa de Sicilia, cerca de su contraparte mitológica, Scylla. Se decía que Charybdis era una hija de Poseidón, el dios del mar, y Gaia, la diosa de la tierra.
+
+Según la leyenda, Charybdis era descrita como un gran remolino en el mar que se traga barcos y toda la masa de agua a su alrededor tres veces al día y luego lo escupe. Este monstruo era conocido por su peligrosidad y temido por los marineros, ya que podía causar naufragios y destruir embarcaciones con sus feroces remolinos.
+
+La historia de Charybdis ha sido mencionada en varias leyendas y mitos, incluyendo la historia de Odiseo en la "Odisea" de Homero, donde se dice que Odiseo y sus hombres tuvieron que navegar por el estrecho donde se encontraban Charybdis y Scylla, y que tuvieron que elegir entre los peligros de cada monstruo.
+
+Hoy en día, el término "Charybdis" se utiliza a menudo como una metáfora para referirse a situaciones peligrosas o destructivas que son difíciles de evitar o superar.ons
+<image>https://i.ibb.co/WxmX6w2/Skin-Art-Charybdis-Default.png</image></template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
